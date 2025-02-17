@@ -10,5 +10,7 @@ public class OopPractice01 {
                 "codeit@codeit.com"
         );
         pu.printUserInfo();
+        System.out.println("-----");
+        pu.printUserInfo("코드잇 수강생입니다.");
     }
 }

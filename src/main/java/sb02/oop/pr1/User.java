@@ -10,7 +10,7 @@ public class User {
     }
 
     public void printUserInfo() {
-        System.out.println("sb02.oop.pr1.User iD: " + userId);
+        System.out.println("User iD: " + userId);
         System.out.println("Name: " + name);
     }
 }
