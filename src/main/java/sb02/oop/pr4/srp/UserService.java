@@ -1,4 +1,4 @@
-package sb02.oop.pr4;
+package sb02.oop.pr4.srp;
 
 public class UserService {
     private final UserRepository userRepository;

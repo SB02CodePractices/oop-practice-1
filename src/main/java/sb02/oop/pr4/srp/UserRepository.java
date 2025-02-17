@@ -1,4 +1,4 @@
-package sb02.oop.pr4;
+package sb02.oop.pr4.srp;
 
 import java.util.HashMap;
 import java.util.Map;
